@@ -1,0 +1,3 @@
+EYE_AR_THRESH = 0.25
+EYE_AR_CONSEC_FRAMES = 15
+ALARM_SOUND_PATH = "sounds/alarm.wav"
